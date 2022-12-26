@@ -2,25 +2,13 @@
 Spring Boot, JSP, REST, Spring Session JDBC, Spring Data JPA,  MySQL
 
 ![img1re](https://user-images.githubusercontent.com/15854708/209499633-3de95d8d-4cf8-469f-9991-43e79e971c16.JPG)
-
 ![img1 0submitwithoutselectionre](https://user-images.githubusercontent.com/15854708/209499645-6a12c6d9-7e80-476b-b3fe-0084c75192ff.JPG)
-
-![img1](https://user-images.githubusercontent.com/15854708/209499132-b5cf60a1-9236-4a47-948d-4dead93effd3.JPG)
-
-![img1 0submitwithoutselection](https://user-images.githubusercontent.com/15854708/209499135-eb4fedc6-b034-4eeb-8e73-fcee50179f2d.JPG)
-
-![img1and2edit](https://user-images.githubusercontent.com/15854708/209499146-296b3c61-b988-4b05-86df-536d627f56b7.png)
-
-![img4 alltickets](https://user-images.githubusercontent.com/15854708/209499207-8455c6e0-78c4-4965-8a56-2d771b195a7c.JPG)
-
-![img5-updateTicket1](https://user-images.githubusercontent.com/15854708/209499244-1150cda2-7301-4894-b2cc-95b4ab6d74c5.png)
-
-![img6 afterUpdating1](https://user-images.githubusercontent.com/15854708/209499261-7ea076e4-91f4-4f15-afb6-e82e525e99b2.JPG)
-
-![img7clickOnAddNew](https://user-images.githubusercontent.com/15854708/209499268-fdd78c0d-0709-4a9b-9f35-14b0ac266394.JPG)
-
-![img8afterCreateTicket](https://user-images.githubusercontent.com/15854708/209499279-36bb87eb-cea3-48d7-bb3c-137cd15cb4e9.JPG)
-
-![img9AfterDeletingTicket1](https://user-images.githubusercontent.com/15854708/209499288-82142521-5000-46f3-a380-13e838ac8ca5.JPG)
-
-![img10AfterLogout](https://user-images.githubusercontent.com/15854708/209499294-8f5f40eb-7605-42e7-a7e0-698150b4fb92.JPG)
+![img1and2editre](https://user-images.githubusercontent.com/15854708/209500058-89583519-50aa-40f6-92ee-dcb72412c69e.png)
+![img2re](https://user-images.githubusercontent.com/15854708/209500101-8b6b30be-e1fa-46e2-81af-ee445a52ffc4.JPG)
+![img4 allticketsre](https://user-images.githubusercontent.com/15854708/209500104-d1de57a0-f74a-4940-8bfa-eb0a5f920511.JPG)
+![img5-updateTicket1re](https://user-images.githubusercontent.com/15854708/209500111-b6aaecca-feaf-46f1-a7af-0de4bad0775b.png)
+![img6 afterUpdating1re](https://user-images.githubusercontent.com/15854708/209500122-b779fe6f-2ce0-42e5-8e06-3a52a829a7a4.JPG)
+![img7clickOnAddNewre](https://user-images.githubusercontent.com/15854708/209500134-807828eb-c3a1-452b-8ff6-058cb7676442.JPG)
+![img8afterCreateTicket](https://user-images.githubusercontent.com/15854708/209500143-62b56b9a-c46a-40b5-8375-e0d68e018612.JPG)
+![img9AfterDeletingTicket1](https://user-images.githubusercontent.com/15854708/209500145-5db5e99b-bac6-4dac-842e-5eca05bfb1f3.JPG)
+![img10AfterLogout](https://user-images.githubusercontent.com/15854708/209500148-2c2a3c73-462d-41c7-96ad-83edf1eefb0f.JPG)
