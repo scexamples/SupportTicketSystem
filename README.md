@@ -4,7 +4,6 @@ Spring Boot, JSP, REST, Spring Session JDBC, Spring Data JPA,  MySQL
 ![img1re](https://user-images.githubusercontent.com/15854708/209499633-3de95d8d-4cf8-469f-9991-43e79e971c16.JPG)
 ![img1 0submitwithoutselectionre](https://user-images.githubusercontent.com/15854708/209499645-6a12c6d9-7e80-476b-b3fe-0084c75192ff.JPG)
 ![img1and2editre](https://user-images.githubusercontent.com/15854708/209500058-89583519-50aa-40f6-92ee-dcb72412c69e.png)
-![img2re](https://user-images.githubusercontent.com/15854708/209500101-8b6b30be-e1fa-46e2-81af-ee445a52ffc4.JPG)
 ![img4 allticketsre](https://user-images.githubusercontent.com/15854708/209500104-d1de57a0-f74a-4940-8bfa-eb0a5f920511.JPG)
 ![img5-updateTicket1re](https://user-images.githubusercontent.com/15854708/209500111-b6aaecca-feaf-46f1-a7af-0de4bad0775b.png)
 ![img6 afterUpdating1re](https://user-images.githubusercontent.com/15854708/209500122-b779fe6f-2ce0-42e5-8e06-3a52a829a7a4.JPG)
