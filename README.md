@@ -71,6 +71,5 @@ iii) Start the application and access on localhost:8080
 ### 7. Click on 'Log out'  
 
 ![img10AfterLogout](https://user-images.githubusercontent.com/15854708/209500148-2c2a3c73-462d-41c7-96ad-83edf1eefb0f.JPG)  
-
 ##### App exits workflow for the selected project and loads the home page. 
 
