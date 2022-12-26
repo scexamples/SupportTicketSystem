@@ -57,9 +57,11 @@ If no project is selected before clicking 'Submit', an error message is displaye
 
 ##### A page loads displaying all tickets - including the newly created ticket.  
 
-### 5. Click on 'Delete' action for ticket 1. A page loads displaying all tickets - ticket 1 has been deleted.  
+### 5. Click on 'Delete' action for ticket 1.  
 
 ![img9AfterDeletingTicket1](https://user-images.githubusercontent.com/15854708/209500145-5db5e99b-bac6-4dac-842e-5eca05bfb1f3.JPG)  
+
+#####  A page loads displaying all tickets - ticket 1 has been deleted.
 
 ### 6. Clicking on 'Log out' loads the home page where the user can select a project.  
 
