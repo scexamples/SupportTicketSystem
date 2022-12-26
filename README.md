@@ -1,6 +1,10 @@
 # SupportTicketSystem
 Spring Boot, JSP, REST, Spring Session JDBC, Spring Data JPA,  MySQL
 
+![img1re](https://user-images.githubusercontent.com/15854708/209499633-3de95d8d-4cf8-469f-9991-43e79e971c16.JPG)
+
+![img1 0submitwithoutselectionre](https://user-images.githubusercontent.com/15854708/209499645-6a12c6d9-7e80-476b-b3fe-0084c75192ff.JPG)
+
 ![img1](https://user-images.githubusercontent.com/15854708/209499132-b5cf60a1-9236-4a47-948d-4dead93effd3.JPG)
 
 ![img1 0submitwithoutselection](https://user-images.githubusercontent.com/15854708/209499135-eb4fedc6-b034-4eeb-8e73-fcee50179f2d.JPG)
