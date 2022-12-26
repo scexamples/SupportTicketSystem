@@ -1,24 +1,20 @@
-# SupportTicketSystem
-Spring Boot, JSP, REST, Spring Session JDBC, Spring Data JPA, Bootstrap, MySQL
-
-
 ## SupportTicketSystem - a web app to manage support tickets
 
 ## Technologies   
- Spring Boot
- Spring Session JDBC
- Spring Data JPA 
- JSP
+ Spring Boot  
+ Spring Session JDBC  
+ Spring Data JPA  
+ JSP  
  REST  
- Bootstrap
- MySql
+ Bootstrap  
+ MySQL
 
 ## The app was designed for the following requirements:
-- The dataparser should support two formats: CSV and JSON. However the design should permit easy addition of functionality to support additional formats in future.   
-- The output format should be JSON regardless of input format.
-- The app should provide the ability to filter and sort records by specified fields (eg Filter by City or Sort by Region ASC / DESC).
-- Files can be directly included in the project (upload functionality not needed).
-- The default format can be kept as a configuration in a config file.
+- On specifying a project, all support tickets for that project should be retreived and displayed.   
+- For each ticket, there should be an option to update or delete it.
+- Functionality should be provided to create a new ticket.
+- On specifying a project, the selection (project name) should be displayed in the subsequent workflow.
+- Functionality should be provided to exit a workflow and select a new project.
 
 ### Use Case  
 
