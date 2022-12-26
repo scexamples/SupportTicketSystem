@@ -30,15 +30,16 @@ If no project is selected before clicking 'Submit', an error message is displaye
 
 ![img1 0submitwithoutselectionre](https://user-images.githubusercontent.com/15854708/209499645-6a12c6d9-7e80-476b-b3fe-0084c75192ff.JPG)
 
-### 2. Select a project and click on 'Submit'.
+### 1. Select a project and click on 'Submit'.
 
 ![img1and2editre](https://user-images.githubusercontent.com/15854708/209500058-89583519-50aa-40f6-92ee-dcb72412c69e.png)  
 
-##### After a project is selected, the selection is stored in the session and 'Log out' functionality is exposed in the workflow. Support tickets for the selected project are displayed.    
+##### After a project is selected, the selection is stored in the session and 'Log out' functionality is exposed in the workflow. 
+##### Support tickets for the selected project are displayed.    
 
 ![img4 allticketsre](https://user-images.githubusercontent.com/15854708/209500104-d1de57a0-f74a-4940-8bfa-eb0a5f920511.JPG)  
 
-### 3. Click on 'Update' action for ticket 1. displays a form with current details for ticket 1.  
+### 2. Click on 'Update' action for ticket 1.  
 
 ![img5-updateTicket1re](https://user-images.githubusercontent.com/15854708/209500111-b6aaecca-feaf-46f1-a7af-0de4bad0775b.png)    
 
@@ -46,20 +47,20 @@ If no project is selected before clicking 'Submit', an error message is displaye
 
 ![img6 afterUpdating1re](https://user-images.githubusercontent.com/15854708/209500122-b779fe6f-2ce0-42e5-8e06-3a52a829a7a4.JPG)    
 
-### 4. Click on 'Add New'. A form is displayed to create a new ticket.
+### 3. Click on 'Add New'. A form is displayed to create a new ticket.
 
 ![img7clickOnAddNewre](https://user-images.githubusercontent.com/15854708/209500134-807828eb-c3a1-452b-8ff6-058cb7676442.JPG)  
 
-### 5. Enter details for the new ticket and click 'Create Ticket'.  
+### 4. Enter details for the new ticket and click 'Create Ticket'.  
 
 ![img8afterCreateTicket](https://user-images.githubusercontent.com/15854708/209500143-62b56b9a-c46a-40b5-8375-e0d68e018612.JPG)    
 
 ##### A page loads displaying all tickets - including the newly created ticket.  
 
-### 6. Click on 'Delete' action for ticket 1. A page loads displaying all tickets - ticket 1 has been deleted.  
+### 5. Click on 'Delete' action for ticket 1. A page loads displaying all tickets - ticket 1 has been deleted.  
 
 ![img9AfterDeletingTicket1](https://user-images.githubusercontent.com/15854708/209500145-5db5e99b-bac6-4dac-842e-5eca05bfb1f3.JPG)  
 
-### 7. Click on 'Log out' loads the home page where the user can select a project.  
+### 6. Clicking on 'Log out' loads the home page where the user can select a project.  
 
 ![img10AfterLogout](https://user-images.githubusercontent.com/15854708/209500148-2c2a3c73-462d-41c7-96ad-83edf1eefb0f.JPG)
